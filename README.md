@@ -181,6 +181,8 @@ However, unziping it in a temporary directory maybe unncecessary due to possibil
 
 - It would be awesome to see the creation of cross-language interoperability WG.
 
+- It seems that there's quite a lot of boilerplate in `build.gradle`. Maybe a Gradle plugin could be created to make the code more concise and less error-prone.
+
 ## Also see
 
 - SWIG, a software development tool that connects programs written in C and C++ with a variety of high-level programming languages: <https://www.swig.org/>.
