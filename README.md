@@ -179,4 +179,6 @@ However, unziping it in a temporary directory maybe unncecessary due to possibil
 
 - It would be interesting the cooperation between [`flapigen`](https://github.com/Dushistov/flapigen-rs), [`diplomat`](https://github.com/rust-diplomat/diplomat), and [`specta`](https://github.com/oscartbeaumont/specta).
 
+- It would be awesome to see the creation of cross-language interoperability WG.
+
 [^1]: I didn't have to install these on my machine, but it's possible that you might need to.
