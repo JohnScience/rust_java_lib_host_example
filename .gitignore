@@ -1,0 +1,15 @@
+/target
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore generated java files
+lib/src/main/java/my/java/lib/*
+# NativeUtils.java is not generated, so it should be included
+!lib/src/main/java/my/java/lib/NativeUtils.java
+# Ignore the directory with the generated dynamically linked library (.dll, .so, .dylib)
+lib/rust-lib
+
