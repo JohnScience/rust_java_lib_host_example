@@ -12,4 +12,5 @@ lib/src/main/java/my/java/lib/*
 !lib/src/main/java/my/java/lib/NativeUtils.java
 # Ignore the directory with the generated dynamically linked library (.dll, .so, .dylib)
 lib/rust-lib
-
+# Ignore output.txt file generated with `cargo expand > output.txt`
+output.txt
