@@ -44,7 +44,7 @@ dependencies {
 // ...
 ```
 
-- I found that `cargo expand` was *very* long, so I used `cargo expand > output.txt` to see the output. Among with other files, I also added `output.txt` to the `.gitignore` file to avoid commiting the file it accidentally. In my case, the file was 7,995 lines long.
+- I found that `cargo expand` was *very* long, so I used `cargo expand > output.txt` to see the output. Among with other files, I also added `output.txt` to the `.gitignore` file to avoid commiting the file accidentally. In my case, the file was 7,995 lines long.
 - I had to slightly alter the `lib/build.gradle`.
 
 Between the
