@@ -187,5 +187,6 @@ However, unziping it in a temporary directory maybe unncecessary due to possibil
 
 - SWIG, a software development tool that connects programs written in C and C++ with a variety of high-level programming languages: <https://www.swig.org/>.
 - ["Wrapping a C library in Java"](https://nachtimwald.com/2017/06/06/wrapping-a-c-library-in-java/) article by John Schember.
+- [`chickory`](https://github.com/dylibso/chicory) - native JVM WebAssembly runtime.
 
 [^1]: I didn't have to install these on my machine, but it's possible that you might need to.
